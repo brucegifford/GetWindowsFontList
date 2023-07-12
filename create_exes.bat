@@ -11,4 +11,5 @@ IF EXIST dist (
 	rmdir dist /s/q
 )
 
+call venv\Scripts\activate.bat
 pyinstaller.exe --onefile GetWindowsFontList.py
