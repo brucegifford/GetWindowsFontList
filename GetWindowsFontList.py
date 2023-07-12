@@ -58,6 +58,7 @@ def Main():
 
         parser = argparse.ArgumentParser(description='Get Windows Font List', fromfile_prefix_chars='@')
         parser.add_argument('-output', default=None, help="file name for outputting json file font list", required=False)
+        parser.add_argument('-font_names', default=None, help="file name for outputting json file font list", required=False)
 
 
         args = parser.parse_args(good_args)
@@ -69,6 +70,11 @@ def Main():
         if args.output:
             with open(args.output, "w", encoding='utf-8') as data_file:
                 data_file.write(json.dumps(font_list, sort_keys=True, indent=4, separators=(',', ': '), ensure_ascii=False))
+
+        if args.font_names:
+            with open(args.font_names, "w", encoding='utf-8') as data_file:
+                for font in font_list:
+                    data_file.write(font["Name"]+'\n')
 
 
 
