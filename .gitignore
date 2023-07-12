@@ -8,3 +8,6 @@
 *.spec
 /.vscode/
 /ThunderFontList.json
+/SilvyFontList.json
+/SilvyFontNames.txt
+/ThunderFontNames.txt
