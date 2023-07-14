@@ -1,0 +1,1822 @@
+[
+    {
+        "Name": "AG Farmhouse Regular",
+        "Path": "C:\\Windows\\Fonts\\AG Farmhouse Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "AR BERKLEY Medium",
+        "Path": "C:\\Windows\\Fonts\\AR BERKLEY Medium",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "AR BLANCA Medium",
+        "Path": "C:\\Windows\\Fonts\\AR BLANCA Medium",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "AR BONNIE Medium",
+        "Path": "C:\\Windows\\Fonts\\AR BONNIE Medium",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "AR CARTER Medium",
+        "Path": "C:\\Windows\\Fonts\\AR CARTER Medium",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "AR CENA Medium",
+        "Path": "C:\\Windows\\Fonts\\AR CENA Medium",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "AR CHRISTY Medium",
+        "Path": "C:\\Windows\\Fonts\\AR CHRISTY Medium",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "AR DARLING Medium",
+        "Path": "C:\\Windows\\Fonts\\AR DARLING Medium",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "AR DECODE Medium",
+        "Path": "C:\\Windows\\Fonts\\AR DECODE Medium",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "AR DELANEY Medium",
+        "Path": "C:\\Windows\\Fonts\\AR DELANEY Medium",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "AR DESTINE Medium",
+        "Path": "C:\\Windows\\Fonts\\AR DESTINE Medium",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "AR ESSENCE Medium",
+        "Path": "C:\\Windows\\Fonts\\AR ESSENCE Medium",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "AR HERMANN Medium",
+        "Path": "C:\\Windows\\Fonts\\AR HERMANN Medium",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Abalone Regular",
+        "Path": "C:\\Windows\\Fonts\\Abalone Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Adine Kirnberg Alternate Regular",
+        "Path": "C:\\Windows\\Fonts\\Adine Kirnberg Alternate Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Adine Kirnberg Regular",
+        "Path": "C:\\Windows\\Fonts\\Adine Kirnberg Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Albertus",
+        "Path": "C:\\Windows\\Fonts\\Albertus",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Always Better Regular",
+        "Path": "C:\\Windows\\Fonts\\Always Better Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "AntelopeIsland Regular",
+        "Path": "C:\\Windows\\Fonts\\AntelopeIsland Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Antique Olive",
+        "Path": "C:\\Windows\\Fonts\\Antique Olive",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Arial",
+        "Path": "C:\\Windows\\Fonts\\Arial",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Arial Rounded MT Bold",
+        "Path": "C:\\Windows\\Fonts\\Arial Rounded MT Bold",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Arial Unicode MS Regular",
+        "Path": "C:\\Windows\\Fonts\\Arial Unicode MS Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "BFC Nickela Regular",
+        "Path": "C:\\Windows\\Fonts\\BFC Nickela Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "BFC Summer Break Regular",
+        "Path": "C:\\Windows\\Fonts\\BFC Summer Break Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "BFC Whimsical Wishes Regular",
+        "Path": "C:\\Windows\\Fonts\\BFC Whimsical Wishes Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Bahnschrift",
+        "Path": "C:\\Windows\\Fonts\\Bahnschrift",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Bethany Regular",
+        "Path": "C:\\Windows\\Fonts\\Bethany Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Biscuits Regular",
+        "Path": "C:\\Windows\\Fonts\\Biscuits Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Book Antiqua",
+        "Path": "C:\\Windows\\Fonts\\Book Antiqua",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Book Signature Regular",
+        "Path": "C:\\Windows\\Fonts\\Book Signature Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Bookman Old Style",
+        "Path": "C:\\Windows\\Fonts\\Bookman Old Style",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Bookshelf Symbol 7 Regular",
+        "Path": "C:\\Windows\\Fonts\\Bookshelf Symbol 7 Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Bradley Hand ITC Regular",
+        "Path": "C:\\Windows\\Fonts\\Bradley Hand ITC Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Buttermilk Regular",
+        "Path": "C:\\Windows\\Fonts\\Buttermilk Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "CG Omega",
+        "Path": "C:\\Windows\\Fonts\\CG Omega",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "CG Snowman Friends Dingbats Regular",
+        "Path": "C:\\Windows\\Fonts\\CG Snowman Friends Dingbats Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "CG Times",
+        "Path": "C:\\Windows\\Fonts\\CG Times",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "CS Sunshine Regular",
+        "Path": "C:\\Windows\\Fonts\\CS Sunshine Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Calibri",
+        "Path": "C:\\Windows\\Fonts\\Calibri",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Cambria",
+        "Path": "C:\\Windows\\Fonts\\Cambria",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Cambria Math Regular",
+        "Path": "C:\\Windows\\Fonts\\Cambria Math Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Candara",
+        "Path": "C:\\Windows\\Fonts\\Candara",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Carolina Mountains Personal Use Regular",
+        "Path": "C:\\Windows\\Fonts\\Carolina Mountains Personal Use Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Century Gothic",
+        "Path": "C:\\Windows\\Fonts\\Century Gothic",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Century Regular",
+        "Path": "C:\\Windows\\Fonts\\Century Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Champagne & Limousines",
+        "Path": "C:\\Windows\\Fonts\\Champagne & Limousines",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Christmasvintagepaintmarkerfont Medium",
+        "Path": "C:\\Windows\\Fonts\\Christmasvintagepaintmarkerfont Medium",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Clarendon",
+        "Path": "C:\\Windows\\Fonts\\Clarendon",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Comic Sans MS",
+        "Path": "C:\\Windows\\Fonts\\Comic Sans MS",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Consolas",
+        "Path": "C:\\Windows\\Fonts\\Consolas",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Constantia",
+        "Path": "C:\\Windows\\Fonts\\Constantia",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "CookiesandCream Medium",
+        "Path": "C:\\Windows\\Fonts\\CookiesandCream Medium",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Copperplate Gothic",
+        "Path": "C:\\Windows\\Fonts\\Copperplate Gothic",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Corbel",
+        "Path": "C:\\Windows\\Fonts\\Corbel",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Coronet Italic",
+        "Path": "C:\\Windows\\Fonts\\Coronet Italic",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Courier New",
+        "Path": "C:\\Windows\\Fonts\\Courier New",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Courier Regular",
+        "Path": "C:\\Windows\\Fonts\\Courier Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "CourierPS",
+        "Path": "C:\\Windows\\Fonts\\CourierPS",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Cupcake Block Regular",
+        "Path": "C:\\Windows\\Fonts\\Cupcake Block Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "DB Apothecary Labels Regular",
+        "Path": "C:\\Windows\\Fonts\\DB Apothecary Labels Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "DB Stick Kids Regular",
+        "Path": "C:\\Windows\\Fonts\\DB Stick Kids Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "DJ Angels Regular",
+        "Path": "C:\\Windows\\Fonts\\DJ Angels Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "DJ Baby Stuff Regular",
+        "Path": "C:\\Windows\\Fonts\\DJ Baby Stuff Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "DJ Bears Regular",
+        "Path": "C:\\Windows\\Fonts\\DJ Bears Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "DJ Bendy Regular",
+        "Path": "C:\\Windows\\Fonts\\DJ Bendy Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "DJ Big Dot Regular",
+        "Path": "C:\\Windows\\Fonts\\DJ Big Dot Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "DJ Birthday Regular",
+        "Path": "C:\\Windows\\Fonts\\DJ Birthday Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "DJ Bongo Regular",
+        "Path": "C:\\Windows\\Fonts\\DJ Bongo Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "DJ Bud Regular",
+        "Path": "C:\\Windows\\Fonts\\DJ Bud Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "DJ Butterfly Regular",
+        "Path": "C:\\Windows\\Fonts\\DJ Butterfly Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "DJ Candy Heart Regular",
+        "Path": "C:\\Windows\\Fonts\\DJ Candy Heart Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "DJ Candy Stripe Regular",
+        "Path": "C:\\Windows\\Fonts\\DJ Candy Stripe Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "DJ Chunk Blocks Regular",
+        "Path": "C:\\Windows\\Fonts\\DJ Chunk Blocks Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "DJ Country Bold",
+        "Path": "C:\\Windows\\Fonts\\DJ Country Bold",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "DJ Crazy Regular",
+        "Path": "C:\\Windows\\Fonts\\DJ Crazy Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "DJ Cursive",
+        "Path": "C:\\Windows\\Fonts\\DJ Cursive",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "DJ Cutie Pie Regular",
+        "Path": "C:\\Windows\\Fonts\\DJ Cutie Pie Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "DJ Delight Regular",
+        "Path": "C:\\Windows\\Fonts\\DJ Delight Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "DJ Dingle Regular",
+        "Path": "C:\\Windows\\Fonts\\DJ Dingle Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "DJ Doozie Regular",
+        "Path": "C:\\Windows\\Fonts\\DJ Doozie Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "DJ Easter Regular",
+        "Path": "C:\\Windows\\Fonts\\DJ Easter Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "DJ Flirt Regular",
+        "Path": "C:\\Windows\\Fonts\\DJ Flirt Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "DJ Flowers Regular",
+        "Path": "C:\\Windows\\Fonts\\DJ Flowers Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "DJ Football Regular",
+        "Path": "C:\\Windows\\Fonts\\DJ Football Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "DJ Framed Regular",
+        "Path": "C:\\Windows\\Fonts\\DJ Framed Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "DJ Geek Regular",
+        "Path": "C:\\Windows\\Fonts\\DJ Geek Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "DJ Golf Regular",
+        "Path": "C:\\Windows\\Fonts\\DJ Golf Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "DJ Graduation Regular",
+        "Path": "C:\\Windows\\Fonts\\DJ Graduation Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "DJ Hand Writing Regular",
+        "Path": "C:\\Windows\\Fonts\\DJ Hand Writing Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "DJ Hearty Regular",
+        "Path": "C:\\Windows\\Fonts\\DJ Hearty Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "DJ Helium Regular",
+        "Path": "C:\\Windows\\Fonts\\DJ Helium Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "DJ Ladybug Regular",
+        "Path": "C:\\Windows\\Fonts\\DJ Ladybug Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "DJ Leaf Regular",
+        "Path": "C:\\Windows\\Fonts\\DJ Leaf Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "DJ Meg Regular",
+        "Path": "C:\\Windows\\Fonts\\DJ Meg Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "DJ Mix Up Regular",
+        "Path": "C:\\Windows\\Fonts\\DJ Mix Up Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "DJ Moose Dark Regular",
+        "Path": "C:\\Windows\\Fonts\\DJ Moose Dark Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "DJ MoosePlaid Regular",
+        "Path": "C:\\Windows\\Fonts\\DJ MoosePlaid Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "DJ Music Regular",
+        "Path": "C:\\Windows\\Fonts\\DJ Music Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "DJ Nifty Regular",
+        "Path": "C:\\Windows\\Fonts\\DJ Nifty Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "DJ O Lucky Regular",
+        "Path": "C:\\Windows\\Fonts\\DJ O Lucky Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "DJ Parade Regular",
+        "Path": "C:\\Windows\\Fonts\\DJ Parade Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "DJ Pencil Regular",
+        "Path": "C:\\Windows\\Fonts\\DJ Pencil Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "DJ PencilPoint Regular",
+        "Path": "C:\\Windows\\Fonts\\DJ PencilPoint Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "DJ Pencils Regular",
+        "Path": "C:\\Windows\\Fonts\\DJ Pencils Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "DJ Plank Regular",
+        "Path": "C:\\Windows\\Fonts\\DJ Plank Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "DJ Polka Dot Regular",
+        "Path": "C:\\Windows\\Fonts\\DJ Polka Dot Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "DJ Puffy Regular",
+        "Path": "C:\\Windows\\Fonts\\DJ Puffy Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "DJ Punkin Regular",
+        "Path": "C:\\Windows\\Fonts\\DJ Punkin Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "DJ Quilt Squares Regular",
+        "Path": "C:\\Windows\\Fonts\\DJ Quilt Squares Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "DJ Scraps Regular",
+        "Path": "C:\\Windows\\Fonts\\DJ Scraps Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "DJ Showtime Regular",
+        "Path": "C:\\Windows\\Fonts\\DJ Showtime Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "DJ Simple Regular",
+        "Path": "C:\\Windows\\Fonts\\DJ Simple Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "DJ Snow  Plop Regular",
+        "Path": "C:\\Windows\\Fonts\\DJ Snow  Plop Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "DJ Snow Regular",
+        "Path": "C:\\Windows\\Fonts\\DJ Snow Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "DJ Soccer Regular",
+        "Path": "C:\\Windows\\Fonts\\DJ Soccer Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "DJ Spring Regular",
+        "Path": "C:\\Windows\\Fonts\\DJ Spring Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "DJ Stamps Regular",
+        "Path": "C:\\Windows\\Fonts\\DJ Stamps Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "DJ Star Light",
+        "Path": "C:\\Windows\\Fonts\\DJ Star Light",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "DJ Stars Regular",
+        "Path": "C:\\Windows\\Fonts\\DJ Stars Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "DJ Stars n Stripes Regular",
+        "Path": "C:\\Windows\\Fonts\\DJ Stars n Stripes Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "DJ Stick Regular",
+        "Path": "C:\\Windows\\Fonts\\DJ Stick Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "DJ Stressed Out Regular",
+        "Path": "C:\\Windows\\Fonts\\DJ Stressed Out Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "DJ Stroke Regular",
+        "Path": "C:\\Windows\\Fonts\\DJ Stroke Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "DJ Stumble2 Regular",
+        "Path": "C:\\Windows\\Fonts\\DJ Stumble2 Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "DJ Sunny Regular",
+        "Path": "C:\\Windows\\Fonts\\DJ Sunny Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "DJ Swish Regular",
+        "Path": "C:\\Windows\\Fonts\\DJ Swish Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "DJ Teddy Regular",
+        "Path": "C:\\Windows\\Fonts\\DJ Teddy Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "DJ Thread Regular",
+        "Path": "C:\\Windows\\Fonts\\DJ Thread Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "DJ Tribe Regular",
+        "Path": "C:\\Windows\\Fonts\\DJ Tribe Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "DJ Tweek Regular",
+        "Path": "C:\\Windows\\Fonts\\DJ Tweek Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "DJ Type Regular",
+        "Path": "C:\\Windows\\Fonts\\DJ Type Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "DJ Wee Regular",
+        "Path": "C:\\Windows\\Fonts\\DJ Wee Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "DJ Whimsey Regular",
+        "Path": "C:\\Windows\\Fonts\\DJ Whimsey Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "DJ Wink Regular",
+        "Path": "C:\\Windows\\Fonts\\DJ Wink Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "DJ Wood Heart Regular",
+        "Path": "C:\\Windows\\Fonts\\DJ Wood Heart Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "DJ Write Cursive",
+        "Path": "C:\\Windows\\Fonts\\DJ Write Cursive",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "DJ Writer Regular",
+        "Path": "C:\\Windows\\Fonts\\DJ Writer Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Dancing in the Rainbow Regular",
+        "Path": "C:\\Windows\\Fonts\\Dancing in the Rainbow Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Dandelion Soup Demo Regular",
+        "Path": "C:\\Windows\\Fonts\\Dandelion Soup Demo Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "David Regular",
+        "Path": "C:\\Windows\\Fonts\\David Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Dj Bowtie Regular",
+        "Path": "C:\\Windows\\Fonts\\Dj Bowtie Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Dream State Regular",
+        "Path": "C:\\Windows\\Fonts\\Dream State Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Ebrima",
+        "Path": "C:\\Windows\\Fonts\\Ebrima",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "FF Print Regular",
+        "Path": "C:\\Windows\\Fonts\\FF Print Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "FT Baby FT Baby Regular",
+        "Path": "C:\\Windows\\Fonts\\FT Baby FT Baby Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Finch Chub Regular",
+        "Path": "C:\\Windows\\Fonts\\Finch Chub Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Finch Ditto Regular",
+        "Path": "C:\\Windows\\Fonts\\Finch Ditto Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Finch Font Regular",
+        "Path": "C:\\Windows\\Fonts\\Finch Font Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Finch Stocky Regular",
+        "Path": "C:\\Windows\\Fonts\\Finch Stocky Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Finch Twigs Regular",
+        "Path": "C:\\Windows\\Fonts\\Finch Twigs Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Fixedsys Regular",
+        "Path": "C:\\Windows\\Fonts\\Fixedsys Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Franklin Gothic",
+        "Path": "C:\\Windows\\Fonts\\Franklin Gothic",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Freestyle Script Regular",
+        "Path": "C:\\Windows\\Fonts\\Freestyle Script Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "French Script MT Regular",
+        "Path": "C:\\Windows\\Fonts\\French Script MT Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Fresh Mix Regular",
+        "Path": "C:\\Windows\\Fonts\\Fresh Mix Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Fresh Start Regular",
+        "Path": "C:\\Windows\\Fonts\\Fresh Start Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Gabriola Regular",
+        "Path": "C:\\Windows\\Fonts\\Gabriola Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Gadugi",
+        "Path": "C:\\Windows\\Fonts\\Gadugi",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Garamond",
+        "Path": "C:\\Windows\\Fonts\\Garamond",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Georgia",
+        "Path": "C:\\Windows\\Fonts\\Georgia",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Great Vibes Regular",
+        "Path": "C:\\Windows\\Fonts\\Great Vibes Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Harrington (Plain) Regular",
+        "Path": "C:\\Windows\\Fonts\\Harrington (Plain) Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Helvetica",
+        "Path": "C:\\Windows\\Fonts\\Helvetica",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Hey Magnolia Regular",
+        "Path": "C:\\Windows\\Fonts\\Hey Magnolia Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "HoloLens MDL2 Assets Regular",
+        "Path": "C:\\Windows\\Fonts\\HoloLens MDL2 Assets Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Home Sweet Home Regular",
+        "Path": "C:\\Windows\\Fonts\\Home Sweet Home Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "ITC Avant Garde Gothic",
+        "Path": "C:\\Windows\\Fonts\\ITC Avant Garde Gothic",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "ITC Bookman",
+        "Path": "C:\\Windows\\Fonts\\ITC Bookman",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "ITC Zapf Chancery Medium Italic",
+        "Path": "C:\\Windows\\Fonts\\ITC Zapf Chancery Medium Italic",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "ITC Zapf Dingbats Regular",
+        "Path": "C:\\Windows\\Fonts\\ITC Zapf Dingbats Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Impact Regular",
+        "Path": "C:\\Windows\\Fonts\\Impact Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "In Screaming Color Regular",
+        "Path": "C:\\Windows\\Fonts\\In Screaming Color Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Ink Free Regular",
+        "Path": "C:\\Windows\\Fonts\\Ink Free Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Javanese Text Regular",
+        "Path": "C:\\Windows\\Fonts\\Javanese Text Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Juice ITC Regular",
+        "Path": "C:\\Windows\\Fonts\\Juice ITC Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "KB Lemon and Honey Regular",
+        "Path": "C:\\Windows\\Fonts\\KB Lemon and Honey Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "KB Sparkles Glimmer Regular",
+        "Path": "C:\\Windows\\Fonts\\KB Sparkles Glimmer Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "KendalFont Medium",
+        "Path": "C:\\Windows\\Fonts\\KendalFont Medium",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Kristen ITC Regular",
+        "Path": "C:\\Windows\\Fonts\\Kristen ITC Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "LD Wedding Upright Regular",
+        "Path": "C:\\Windows\\Fonts\\LD Wedding Upright Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "LW Dazzling Regular",
+        "Path": "C:\\Windows\\Fonts\\LW Dazzling Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "LW Lizzy Regular",
+        "Path": "C:\\Windows\\Fonts\\LW Lizzy Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "LW Skinny Minnie Regular",
+        "Path": "C:\\Windows\\Fonts\\LW Skinny Minnie Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "LW Sparkling Regular",
+        "Path": "C:\\Windows\\Fonts\\LW Sparkling Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Leelawadee UI",
+        "Path": "C:\\Windows\\Fonts\\Leelawadee UI",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Letter Gothic",
+        "Path": "C:\\Windows\\Fonts\\Letter Gothic",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Lucida Console Regular",
+        "Path": "C:\\Windows\\Fonts\\Lucida Console Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Lucida Handwriting Italic",
+        "Path": "C:\\Windows\\Fonts\\Lucida Handwriting Italic",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Lucida Sans Unicode Regular",
+        "Path": "C:\\Windows\\Fonts\\Lucida Sans Unicode Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "MS Gothic Regular",
+        "Path": "C:\\Windows\\Fonts\\MS Gothic Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "MS Outlook Regular",
+        "Path": "C:\\Windows\\Fonts\\MS Outlook Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "MS PGothic Regular",
+        "Path": "C:\\Windows\\Fonts\\MS PGothic Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "MS Reference Sans Serif Regular",
+        "Path": "C:\\Windows\\Fonts\\MS Reference Sans Serif Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "MS Reference Specialty Regular",
+        "Path": "C:\\Windows\\Fonts\\MS Reference Specialty Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "MS Sans Serif Regular",
+        "Path": "C:\\Windows\\Fonts\\MS Sans Serif Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "MS Serif Regular",
+        "Path": "C:\\Windows\\Fonts\\MS Serif Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "MS UI Gothic Regular",
+        "Path": "C:\\Windows\\Fonts\\MS UI Gothic Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "MT Extra Regular",
+        "Path": "C:\\Windows\\Fonts\\MT Extra Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "MV Boli Regular",
+        "Path": "C:\\Windows\\Fonts\\MV Boli Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Magnolia Sky Regular",
+        "Path": "C:\\Windows\\Fonts\\Magnolia Sky Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Malgun Gothic",
+        "Path": "C:\\Windows\\Fonts\\Malgun Gothic",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Marigold Regular",
+        "Path": "C:\\Windows\\Fonts\\Marigold Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Microsoft Himalaya Regular",
+        "Path": "C:\\Windows\\Fonts\\Microsoft Himalaya Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Microsoft JhengHei",
+        "Path": "C:\\Windows\\Fonts\\Microsoft JhengHei",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Microsoft JhengHei UI",
+        "Path": "C:\\Windows\\Fonts\\Microsoft JhengHei UI",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Microsoft New Tai Lue",
+        "Path": "C:\\Windows\\Fonts\\Microsoft New Tai Lue",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Microsoft PhagsPa",
+        "Path": "C:\\Windows\\Fonts\\Microsoft PhagsPa",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Microsoft Sans Serif Regular",
+        "Path": "C:\\Windows\\Fonts\\Microsoft Sans Serif Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Microsoft Tai Le",
+        "Path": "C:\\Windows\\Fonts\\Microsoft Tai Le",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Microsoft YaHei",
+        "Path": "C:\\Windows\\Fonts\\Microsoft YaHei",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Microsoft YaHei UI",
+        "Path": "C:\\Windows\\Fonts\\Microsoft YaHei UI",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Microsoft Yi Baiti Regular",
+        "Path": "C:\\Windows\\Fonts\\Microsoft Yi Baiti Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "MingLiU-ExtB Regular",
+        "Path": "C:\\Windows\\Fonts\\MingLiU-ExtB Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "MingLiU_HKSCS-ExtB Regular",
+        "Path": "C:\\Windows\\Fonts\\MingLiU_HKSCS-ExtB Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "MissKayla Medium",
+        "Path": "C:\\Windows\\Fonts\\MissKayla Medium",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Mistral Regular",
+        "Path": "C:\\Windows\\Fonts\\Mistral Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Modern Regular",
+        "Path": "C:\\Windows\\Fonts\\Modern Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Mongolian Baiti Regular",
+        "Path": "C:\\Windows\\Fonts\\Mongolian Baiti Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Monotype Corsiva Italic",
+        "Path": "C:\\Windows\\Fonts\\Monotype Corsiva Italic",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Mufferaw Regular",
+        "Path": "C:\\Windows\\Fonts\\Mufferaw Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Myanmar Text",
+        "Path": "C:\\Windows\\Fonts\\Myanmar Text",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "NSimSun Regular",
+        "Path": "C:\\Windows\\Fonts\\NSimSun Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "New Century Schoolbook",
+        "Path": "C:\\Windows\\Fonts\\New Century Schoolbook",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Nirmala UI",
+        "Path": "C:\\Windows\\Fonts\\Nirmala UI",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "PC Baby Regular",
+        "Path": "C:\\Windows\\Fonts\\PC Baby Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "PC Bandages Regular",
+        "Path": "C:\\Windows\\Fonts\\PC Bandages Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "PC Block Italic",
+        "Path": "C:\\Windows\\Fonts\\PC Block Italic",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "PC Candy Cane Regular",
+        "Path": "C:\\Windows\\Fonts\\PC Candy Cane Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "PC Chunky Jumbled Regular",
+        "Path": "C:\\Windows\\Fonts\\PC Chunky Jumbled Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "PC Chunky Regular",
+        "Path": "C:\\Windows\\Fonts\\PC Chunky Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "PC Dangle Star Regular",
+        "Path": "C:\\Windows\\Fonts\\PC Dangle Star Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "PC Dazzle Outline Regular",
+        "Path": "C:\\Windows\\Fonts\\PC Dazzle Outline Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "PC Dazzle Regular",
+        "Path": "C:\\Windows\\Fonts\\PC Dazzle Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "PC Dazzle Tremor Regular",
+        "Path": "C:\\Windows\\Fonts\\PC Dazzle Tremor Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "PC Dot Regular",
+        "Path": "C:\\Windows\\Fonts\\PC Dot Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "PC Fiesta Regular",
+        "Path": "C:\\Windows\\Fonts\\PC Fiesta Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "PC Halloween Regular",
+        "Path": "C:\\Windows\\Fonts\\PC Halloween Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "PC Nature Regular",
+        "Path": "C:\\Windows\\Fonts\\PC Nature Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "PC Pizazz Outline Regular",
+        "Path": "C:\\Windows\\Fonts\\PC Pizazz Outline Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "PC Pizazz Regular",
+        "Path": "C:\\Windows\\Fonts\\PC Pizazz Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "PC Script Regular",
+        "Path": "C:\\Windows\\Fonts\\PC Script Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "PC Snow Caps Regular",
+        "Path": "C:\\Windows\\Fonts\\PC Snow Caps Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "PC Snowflake Regular",
+        "Path": "C:\\Windows\\Fonts\\PC Snowflake Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "PC Sports Regular",
+        "Path": "C:\\Windows\\Fonts\\PC Sports Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "PC Thick Dots Regular",
+        "Path": "C:\\Windows\\Fonts\\PC Thick Dots Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "PC Thick Swirls Regular",
+        "Path": "C:\\Windows\\Fonts\\PC Thick Swirls Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "PC Type Regular",
+        "Path": "C:\\Windows\\Fonts\\PC Type Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "PC Whimsey Holly Regular",
+        "Path": "C:\\Windows\\Fonts\\PC Whimsey Holly Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "PC Whimsey Regular",
+        "Path": "C:\\Windows\\Fonts\\PC Whimsey Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "PMingLiU-ExtB Regular",
+        "Path": "C:\\Windows\\Fonts\\PMingLiU-ExtB Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "PN Apple Cider Print Regular",
+        "Path": "C:\\Windows\\Fonts\\PN Apple Cider Print Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "PN Bobbity Regular",
+        "Path": "C:\\Windows\\Fonts\\PN Bobbity Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "PN Cliffhanger Regular",
+        "Path": "C:\\Windows\\Fonts\\PN Cliffhanger Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "PN Collectable Regular",
+        "Path": "C:\\Windows\\Fonts\\PN Collectable Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "PN Girlfriend Regular",
+        "Path": "C:\\Windows\\Fonts\\PN Girlfriend Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "PN Handsome Sans Regular",
+        "Path": "C:\\Windows\\Fonts\\PN Handsome Sans Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "PN Harvest Moon Regular",
+        "Path": "C:\\Windows\\Fonts\\PN Harvest Moon Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "PN Honeydew Lowercase Regular",
+        "Path": "C:\\Windows\\Fonts\\PN Honeydew Lowercase Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "PN Housewife Regular",
+        "Path": "C:\\Windows\\Fonts\\PN Housewife Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "PN Imagination Regular",
+        "Path": "C:\\Windows\\Fonts\\PN Imagination Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "PN Laughlines Lite Regular",
+        "Path": "C:\\Windows\\Fonts\\PN Laughlines Lite Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "PN Mint Jimmies Regular",
+        "Path": "C:\\Windows\\Fonts\\PN Mint Jimmies Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "PN Our Anniversary Holiday Sten Regular",
+        "Path": "C:\\Windows\\Fonts\\PN Our Anniversary Holiday Sten Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "PN Outpouring Regular",
+        "Path": "C:\\Windows\\Fonts\\PN Outpouring Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "PN Scrupples Regular",
+        "Path": "C:\\Windows\\Fonts\\PN Scrupples Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "PN Shenadoah Regular",
+        "Path": "C:\\Windows\\Fonts\\PN Shenadoah Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "PN Slinky Regular",
+        "Path": "C:\\Windows\\Fonts\\PN Slinky Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "PN Sugar Britches Expanded Medium",
+        "Path": "C:\\Windows\\Fonts\\PN Sugar Britches Expanded Medium",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "PN Thankful Elegance Regular",
+        "Path": "C:\\Windows\\Fonts\\PN Thankful Elegance Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "PN Threadbare Regular",
+        "Path": "C:\\Windows\\Fonts\\PN Threadbare Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "PN Waltzing Matilda Regular",
+        "Path": "C:\\Windows\\Fonts\\PN Waltzing Matilda Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Palatino",
+        "Path": "C:\\Windows\\Fonts\\Palatino",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Palatino Linotype",
+        "Path": "C:\\Windows\\Fonts\\Palatino Linotype",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Paprika Regular",
+        "Path": "C:\\Windows\\Fonts\\Paprika Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Papyrus Regular",
+        "Path": "C:\\Windows\\Fonts\\Papyrus Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Pristina Regular",
+        "Path": "C:\\Windows\\Fonts\\Pristina Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Raleway",
+        "Path": "C:\\Windows\\Fonts\\Raleway",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Roman Regular",
+        "Path": "C:\\Windows\\Fonts\\Roman Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "SG_Fancy_Hearts Dingbats Regular",
+        "Path": "C:\\Windows\\Fonts\\SG_Fancy_Hearts Dingbats Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "SNF Honeycrisp Lite Regular",
+        "Path": "C:\\Windows\\Fonts\\SNF Honeycrisp Lite Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "SNF Jitterbug Regular",
+        "Path": "C:\\Windows\\Fonts\\SNF Jitterbug Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "SNF Symphonious Flourish Regular",
+        "Path": "C:\\Windows\\Fonts\\SNF Symphonious Flourish Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "STIX Two Math Regular",
+        "Path": "C:\\Windows\\Fonts\\STIX Two Math Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Safari Regular",
+        "Path": "C:\\Windows\\Fonts\\Safari Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Script Regular",
+        "Path": "C:\\Windows\\Fonts\\Script Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Segoe MDL2 Assets Regular",
+        "Path": "C:\\Windows\\Fonts\\Segoe MDL2 Assets Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Segoe Print",
+        "Path": "C:\\Windows\\Fonts\\Segoe Print",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Segoe Script",
+        "Path": "C:\\Windows\\Fonts\\Segoe Script",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Segoe UI",
+        "Path": "C:\\Windows\\Fonts\\Segoe UI",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Segoe UI Emoji Regular",
+        "Path": "C:\\Windows\\Fonts\\Segoe UI Emoji Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Segoe UI Historic Regular",
+        "Path": "C:\\Windows\\Fonts\\Segoe UI Historic Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Segoe UI Symbol Regular",
+        "Path": "C:\\Windows\\Fonts\\Segoe UI Symbol Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Shrewsbury-Titling Normal",
+        "Path": "C:\\Windows\\Fonts\\Shrewsbury-Titling Normal",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "SimSun Regular",
+        "Path": "C:\\Windows\\Fonts\\SimSun Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "SimSun-ExtB Regular",
+        "Path": "C:\\Windows\\Fonts\\SimSun-ExtB Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Simple Signature Regular",
+        "Path": "C:\\Windows\\Fonts\\Simple Signature Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Sitka Banner",
+        "Path": "C:\\Windows\\Fonts\\Sitka Banner",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Sitka Display",
+        "Path": "C:\\Windows\\Fonts\\Sitka Display",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Sitka Heading",
+        "Path": "C:\\Windows\\Fonts\\Sitka Heading",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Sitka Small",
+        "Path": "C:\\Windows\\Fonts\\Sitka Small",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Sitka Subheading",
+        "Path": "C:\\Windows\\Fonts\\Sitka Subheading",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Sitka Text",
+        "Path": "C:\\Windows\\Fonts\\Sitka Text",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Small Fonts Regular",
+        "Path": "C:\\Windows\\Fonts\\Small Fonts Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Sunshine Boulevard Personal Use Regular",
+        "Path": "C:\\Windows\\Fonts\\Sunshine Boulevard Personal Use Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Sweet Dreams Regular",
+        "Path": "C:\\Windows\\Fonts\\Sweet Dreams Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Sweet November Regular",
+        "Path": "C:\\Windows\\Fonts\\Sweet November Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Swirl Font Regular",
+        "Path": "C:\\Windows\\Fonts\\Swirl Font Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Sylfaen Regular",
+        "Path": "C:\\Windows\\Fonts\\Sylfaen Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Symbol Regular",
+        "Path": "C:\\Windows\\Fonts\\Symbol Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "SymbolPS Regular",
+        "Path": "C:\\Windows\\Fonts\\SymbolPS Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "System Bold",
+        "Path": "C:\\Windows\\Fonts\\System Bold",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Tahoma",
+        "Path": "C:\\Windows\\Fonts\\Tahoma",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Teen",
+        "Path": "C:\\Windows\\Fonts\\Teen",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Tempus Sans ITC Regular",
+        "Path": "C:\\Windows\\Fonts\\Tempus Sans ITC Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Terminal",
+        "Path": "C:\\Windows\\Fonts\\Terminal",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Times",
+        "Path": "C:\\Windows\\Fonts\\Times",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Times New Roman",
+        "Path": "C:\\Windows\\Fonts\\Times New Roman",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Trebuchet MS",
+        "Path": "C:\\Windows\\Fonts\\Trebuchet MS",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Unicorns are Awesome Regular",
+        "Path": "C:\\Windows\\Fonts\\Unicorns are Awesome Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Univers",
+        "Path": "C:\\Windows\\Fonts\\Univers",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Verdana",
+        "Path": "C:\\Windows\\Fonts\\Verdana",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Webdings Regular",
+        "Path": "C:\\Windows\\Fonts\\Webdings Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "White Chunti Regular",
+        "Path": "C:\\Windows\\Fonts\\White Chunti Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Wingdings 2 Regular",
+        "Path": "C:\\Windows\\Fonts\\Wingdings 2 Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Wingdings 3 Regular",
+        "Path": "C:\\Windows\\Fonts\\Wingdings 3 Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Wingdings Regular",
+        "Path": "C:\\Windows\\Fonts\\Wingdings Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Winnie Regular",
+        "Path": "C:\\Windows\\Fonts\\Winnie Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Winter Wishes Regular",
+        "Path": "C:\\Windows\\Fonts\\Winter Wishes Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Witch AS Regular",
+        "Path": "C:\\Windows\\Fonts\\Witch AS Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Yu Gothic",
+        "Path": "C:\\Windows\\Fonts\\Yu Gothic",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "Yu Gothic UI",
+        "Path": "C:\\Windows\\Fonts\\Yu Gothic UI",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "ZP Attitude Check Regular",
+        "Path": "C:\\Windows\\Fonts\\ZP Attitude Check Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "ZP Congrats Stencil Regular",
+        "Path": "C:\\Windows\\Fonts\\ZP Congrats Stencil Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "ZP Courtright Regular",
+        "Path": "C:\\Windows\\Fonts\\ZP Courtright Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "ZP Cressandra Regular",
+        "Path": "C:\\Windows\\Fonts\\ZP Cressandra Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "ZP Dear Mellie Regular",
+        "Path": "C:\\Windows\\Fonts\\ZP Dear Mellie Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "ZP Enthusiasm Regular",
+        "Path": "C:\\Windows\\Fonts\\ZP Enthusiasm Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "ZP Fidgerator Lite Regular",
+        "Path": "C:\\Windows\\Fonts\\ZP Fidgerator Lite Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "ZP Gingerbread Cake Regular",
+        "Path": "C:\\Windows\\Fonts\\ZP Gingerbread Cake Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "ZP Hamburgueserif Regular",
+        "Path": "C:\\Windows\\Fonts\\ZP Hamburgueserif Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "ZP Infatuation Regular",
+        "Path": "C:\\Windows\\Fonts\\ZP Infatuation Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "ZP Justify Regular",
+        "Path": "C:\\Windows\\Fonts\\ZP Justify Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "ZP Leapfrog Condensed",
+        "Path": "C:\\Windows\\Fonts\\ZP Leapfrog Condensed",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "ZP Mister Doctor Regular",
+        "Path": "C:\\Windows\\Fonts\\ZP Mister Doctor Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "ZP Morningtide Regular",
+        "Path": "C:\\Windows\\Fonts\\ZP Morningtide Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "ZP Muffin Tops Bold",
+        "Path": "C:\\Windows\\Fonts\\ZP Muffin Tops Bold",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "ZP Quick Draw Regular",
+        "Path": "C:\\Windows\\Fonts\\ZP Quick Draw Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "ZP Red Valentine Regular",
+        "Path": "C:\\Windows\\Fonts\\ZP Red Valentine Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "ZP Rhyming Birdhouse Stencil Regular",
+        "Path": "C:\\Windows\\Fonts\\ZP Rhyming Birdhouse Stencil Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "ZP Rugosity Regular",
+        "Path": "C:\\Windows\\Fonts\\ZP Rugosity Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "ZP Say What Regular",
+        "Path": "C:\\Windows\\Fonts\\ZP Say What Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "ZP Snapshot Regular",
+        "Path": "C:\\Windows\\Fonts\\ZP Snapshot Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "ZP Snorts  Giggles Regular",
+        "Path": "C:\\Windows\\Fonts\\ZP Snorts  Giggles Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "ZP Strawberry Gumdrop Regular",
+        "Path": "C:\\Windows\\Fonts\\ZP Strawberry Gumdrop Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "ZP Sugar Rush Regular",
+        "Path": "C:\\Windows\\Fonts\\ZP Sugar Rush Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "ZP Whatcha Doing 3D Regular",
+        "Path": "C:\\Windows\\Fonts\\ZP Whatcha Doing 3D Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "ZP Zany Germophobe Bold",
+        "Path": "C:\\Windows\\Fonts\\ZP Zany Germophobe Bold",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "dreamland-arrows Regular",
+        "Path": "C:\\Windows\\Fonts\\dreamland-arrows Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "graceful Medium",
+        "Path": "C:\\Windows\\Fonts\\graceful Medium",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "justbecausepaintmarkerfont Medium",
+        "Path": "C:\\Windows\\Fonts\\justbecausepaintmarkerfont Medium",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "leighton Regular",
+        "Path": "C:\\Windows\\Fonts\\leighton Regular",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "summersun Medium",
+        "Path": "C:\\Windows\\Fonts\\summersun Medium",
+        "Type": "OpenType"
+    },
+    {
+        "Name": "that i love you Regular",
+        "Path": "C:\\Windows\\Fonts\\that i love you Regular",
+        "Type": "OpenType"
+    }
+]

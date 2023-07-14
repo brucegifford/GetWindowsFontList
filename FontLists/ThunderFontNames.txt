@@ -1,0 +1,259 @@
+8514oem Regular
+AGA Arabesque Desktop Regular
+AGA Arabesque Regular
+Agency FB
+Akhbar MT
+Algerian Regular
+Ami R Regular
+Arial
+Arial Rounded MT Bold
+Art Bold Italic
+Bahnschrift
+Baskerville Old Face Regular
+Bauhaus 93 Regular
+Bell MT
+Berlin Sans FB
+Bernard MT Condensed
+Blackadder ITC Regular
+Bodoni MT
+Bodoni MT Poster Compressed Light
+Book Antiqua
+Bookman Old Style
+Bookshelf Symbol 7 Regular
+Bradley Hand ITC Regular
+Britannic Bold
+Broadway Regular
+Brush Script MT Italic
+Calibri
+Californian FB
+Calisto MT
+Cambria
+Cambria Math Regular
+Candara
+Cascadia Code
+Cascadia Mono
+Castellar Regular
+Centaur Regular
+Century Gothic
+Century Regular
+Century Schoolbook
+Chiller Regular
+Colonna MT Regular
+Comic Sans MS
+Consolas
+Constantia
+Cooper Black
+Copperplate Gothic
+Corbel
+Courier New
+Courier Regular
+Curlz MT Regular
+DecoType Naskh Extensions Regular
+DecoType Naskh Regular
+DecoType Naskh Special Regular
+DecoType Naskh Swashes Regular
+DecoType Naskh Variants Regular
+DecoType Thuluth Regular
+Diwani Bent Regular
+Diwani Letter Regular
+Diwani Outline Shaded Regular
+Diwani Simple Outline 2 Regular
+Diwani Simple Outline Regular
+Diwani Simple Striped Regular
+Dubai
+Ebrima
+Edwardian Script ITC Regular
+Elephant
+Engravers MT Expanded Medium
+Eras ITC
+Expo M Regular
+Farsi Simple Bold
+Farsi Simple Outline Regular
+Felix Titling Regular
+Fixedsys Regular
+Footlight MT Light
+Forte Regular
+Franklin Gothic
+Franklin Gothic Book
+Freestyle Script Regular
+French Script MT Regular
+FZShuTi Regular
+FZYaoTi Regular
+Gabriola Regular
+Gadugi
+Garamond
+Georgia
+Gigi Regular
+Gill Sans
+Gill Sans MT
+Gloucester MT Extra Condensed
+Goudy Old Style
+Goudy Stout Regular
+Haettenschweiler Regular
+Harlow Solid Semi Expanded Italic
+Harrington Regular
+Headline R Regular
+High Tower Text
+HoloLens MDL2 Assets Regular
+HYGothic Medium
+HYGothic-Extra Regular
+HYGraphic Medium
+HYGungSo Bold
+HYHeadLine Medium
+HYMyeongJo-Extra Regular
+HYPMokGak Bold
+HYPost
+HYShortSamul Medium
+HYSinMyeongJo Medium
+Impact Regular
+Imprint MT Shadow Regular
+Informal Roman Regular
+Ink Free Regular
+Javanese Text Regular
+Jokerman Regular
+Juice ITC Regular
+Kristen ITC Regular
+Kufi Outline Extended
+Kufi Outline Shaded Regular
+Kunstler Script Regular
+Latin Wide
+Led Font Italic
+Leelawadee
+Leelawadee UI
+LiSu Regular
+Lucida Bright
+Lucida Calligraphy Italic
+Lucida Console Regular
+Lucida Fax
+Lucida Handwriting Italic
+Lucida Sans
+Lucida Sans Typewriter
+Lucida Sans Unicode Regular
+Magic R Regular
+Magneto Bold
+Maiandra GD Regular
+Malgun Gothic
+Matura MT Script Capitals Regular
+Microsoft Himalaya Regular
+Microsoft JhengHei
+Microsoft JhengHei UI
+Microsoft New Tai Lue
+Microsoft PhagsPa
+Microsoft Sans Serif Regular
+Microsoft Tai Le
+Microsoft Uighur
+Microsoft YaHei
+Microsoft YaHei UI
+Microsoft Yi Baiti Regular
+MingLiU-ExtB Regular
+MingLiU_HKSCS-ExtB Regular
+Mistral Regular
+Modern No. 20 Regular
+Modern Regular
+MoeumT R Regular
+Mongolian Baiti Regular
+Monotype Corsiva Italic
+Monotype Koufi Bold Oblique
+MS Gothic Regular
+MS Outlook Regular
+MS PGothic Regular
+MS Reference Sans Serif Regular
+MS Reference Specialty Regular
+MS Sans Serif Regular
+MS Serif Regular
+MS UI Gothic Regular
+MT Extra Regular
+Mudir MT Regular
+MV Boli Regular
+Myanmar Text
+New Gulim Regular
+Niagara Engraved Regular
+Niagara Solid Regular
+Nirmala UI
+NSimSun Regular
+OCR A Extended
+Old Antic Bold
+Old Antic Decorative Regular
+Old Antic Outline Regular
+Old Antic Outline Shaded Regular
+Old English Text MT Regular
+Onyx Regular
+Open Sans Regular
+Outline Art Italic
+Palace Script MT Italic
+Palatino Linotype
+Papyrus Regular
+Parchment Regular
+Perpetua
+Perpetua Titling MT
+Playbill Regular
+PMingLiU-ExtB Regular
+Poor Richard Regular
+Pristina Regular
+PT Arch Bold
+PT Broken Bold
+PT Dusky Bold
+PT Heading Bold
+PT Mirror Bold
+PT Separated Baloon Regular
+PT Simple Ruled Bold
+PT Stars Bold
+Pyunji R Regular
+Rage Italic
+Raleway
+Ravie Regular
+Rockwell
+Roman Regular
+Script MT Bold
+Script Regular
+Segoe Fluent Icons Regular
+Segoe MDL2 Assets Regular
+Segoe Print
+Segoe Script
+Segoe UI
+Segoe UI Emoji Regular
+Segoe UI Historic Regular
+Segoe UI Symbol Regular
+Segoe UI Variable
+Showcard Gothic Regular
+Simple Indust Outline Regular
+Simple Indust Shaded Regular
+Simple Jut Out Bold
+Simple Outline Pat Regular
+SimSun Regular
+SimSun-ExtB Regular
+Sitka Text
+Small Fonts Regular
+Snap ITC Regular
+STCaiyun Regular
+Stencil Regular
+STFangsong Regular
+STHupo Regular
+STKaiti Regular
+STLiti Regular
+STSong Regular
+STXihei Regular
+STXingkai Regular
+STXinwei Regular
+STZhongsong Regular
+Sylfaen Regular
+Symbol Regular
+System Bold
+Tahoma
+Tempus Sans ITC Regular
+Terminal
+Times New Roman
+Trebuchet MS
+Tw Cen MT
+Verdana
+Viner Hand ITC Regular
+Vivaldi Italic
+Vladimir Script Regular
+Webdings Regular
+Wingdings 2 Regular
+Wingdings 3 Regular
+Wingdings Regular
+Yet R Regular
+YouYuan Regular
+Yu Gothic
+Yu Gothic UI
